@@ -7,6 +7,6 @@ Model Training NN includes a Neural Network approach that was scrapped for perfo
 
 LRXG has a linear regression implementation (performs poorly as expected) and the XGBoost implementation used for the final model.
 
-Full details can be seen in: 
+Full details can be seen in: https://www.youtube.com/watch?v=LMCzpFM4tns
 
 
